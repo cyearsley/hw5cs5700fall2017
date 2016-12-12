@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using utility_objects;
-using System.Text.RegularExpressions;
 
 namespace hw5_sudoku_algorithms
 {

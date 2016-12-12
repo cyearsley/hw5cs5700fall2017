@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using hw5_sudoku_algorithms;
 
 namespace hw5_sudokuAlgorithm_factory
