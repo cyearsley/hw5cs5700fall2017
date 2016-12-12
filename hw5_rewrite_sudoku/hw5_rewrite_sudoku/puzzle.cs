@@ -3,7 +3,7 @@
     public abstract class puzzle
     {
         //protected IsolveBehavior solveBehavior;
-        protected IpromptBehavior promptBehavior;
+        public IpromptBehavior promptBehavior;
         public abstract void puzzleExecute();
     }
 }

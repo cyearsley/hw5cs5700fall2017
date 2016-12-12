@@ -7,9 +7,9 @@ using hw5_sudoku_algorithms;
 
 namespace hw5_puzzle
 {
-    class sudokuPromptBehavior : IpromptBehavior
+    public class sudokuPromptBehavior : IpromptBehavior
     {
-        public String prompt()
+        public String prompt(String userInput = "empty")
         {
             Console.WriteLine("\n\nPlease enter one of the following options:");
             Console.WriteLine("==========================================");
@@ -18,7 +18,10 @@ namespace hw5_puzzle
             Console.WriteLine("c) Run Backtracking algorithm");
             Console.WriteLine("x) Exit");
 
-            String userInput = Console.ReadLine();
+            if (userInput == "empty")
+            {
+                userInput = Console.ReadLine();
+            }
 
             switch (userInput.ToLower())
             {

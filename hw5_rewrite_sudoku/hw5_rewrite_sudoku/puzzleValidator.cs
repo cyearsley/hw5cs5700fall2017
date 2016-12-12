@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace utility_objects
 {
-    class puzzleValidator
+    public class puzzleValidator
     {
         public bool checkFormat(String fileString, fileHandler fh)
         {

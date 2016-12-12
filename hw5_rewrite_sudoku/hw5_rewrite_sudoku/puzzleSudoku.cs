@@ -8,7 +8,7 @@ using hw5_sudoku_algorithms;
 
 namespace hw5_puzzle
 {
-    class puzzleSudoku : puzzle
+    public class puzzleSudoku : puzzle
     {
         algorithmSudokuFactory factory = new algorithmSudokuFactory();
         public puzzleSudoku()

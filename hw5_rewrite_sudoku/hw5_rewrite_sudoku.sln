@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw5_rewrite_sudoku", "hw5_rewrite_sudoku\hw5_rewrite_sudoku.csproj", "{116788C6-7DA3-4145-B990-836300360DFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw5_testProject", "hw5_testProject\hw5_testProject.csproj", "{AC25D5A9-B259-414D-AF0A-00AEC680DB70}"
+	ProjectSection(ProjectDependencies) = postProject
+		{116788C6-7DA3-4145-B990-836300360DFE} = {116788C6-7DA3-4145-B990-836300360DFE}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{116788C6-7DA3-4145-B990-836300360DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{116788C6-7DA3-4145-B990-836300360DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{116788C6-7DA3-4145-B990-836300360DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC25D5A9-B259-414D-AF0A-00AEC680DB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC25D5A9-B259-414D-AF0A-00AEC680DB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC25D5A9-B259-414D-AF0A-00AEC680DB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC25D5A9-B259-414D-AF0A-00AEC680DB70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\bin\Debug\hw5_testProject.dll
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\bin\Debug\hw5_testProject.pdb
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\obj\Debug\hw5_testProject.csprojResolveAssemblyReference.cache
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\obj\Debug\hw5_testProject.dll
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\obj\Debug\hw5_testProject.pdb
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\bin\Debug\hw5_rewrite_sudoku.exe
+C:\Users\Caleb\Documents\School\Homework\fall_2016\cs5700\hw5_rewrite_sudoku\hw5_rewrite_sudoku\hw5_testProject\bin\Debug\hw5_rewrite_sudoku.pdb

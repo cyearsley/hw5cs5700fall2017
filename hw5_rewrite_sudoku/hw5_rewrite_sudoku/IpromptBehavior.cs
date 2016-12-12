@@ -8,6 +8,6 @@ namespace hw5_puzzle
 {
     public interface IpromptBehavior
     {
-        String prompt();
+        String prompt(String userInput = "empty");
     }
 }

@@ -3,7 +3,7 @@ using hw5_sudoku_algorithms;
 
 namespace hw5_sudokuAlgorithm_factory
 {
-    class algorithmSudokuFactory
+    public class algorithmSudokuFactory
     {
         public sudokuAlgorithm createAlgorithm(String algorithmType)
         {
